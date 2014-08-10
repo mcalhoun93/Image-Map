@@ -1,0 +1,18 @@
+﻿h3 {
+font-style:italic;
+font-size:xx-large;
+color:white;
+text-shadow:2px 3px black;
+}
+div {
+    text-align:center;
+}
+.label {
+    font-family:'Comic Sans MS';
+    color:white;
+    text-shadow:2px 3px black;
+    font-size: xx-large;
+}
+.img {
+border-radius:150px;
+}
